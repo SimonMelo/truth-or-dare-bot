@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TruthOrDareBot.Game/TruthOrDareBot.Game.csproj" />
+  <Project Path="TruthOrDareBot.Worker/TruthOrDareBot.Worker.csproj" />
+</Solution>
